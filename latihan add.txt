@@ -1,0 +1,6 @@
+git add .
+git commite -m "mmmm"
+git push -u origin master
+git config user.name
+git config user.email
+git init
