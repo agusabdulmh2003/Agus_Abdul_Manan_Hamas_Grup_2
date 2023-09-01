@@ -1,0 +1,4 @@
+gir branch
+gut branch namabranch
+git checkout
+git checkout -b namabranch
